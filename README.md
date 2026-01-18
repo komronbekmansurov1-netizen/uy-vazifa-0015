@@ -1,1 +1,4 @@
-# uy-vazifa-0015
+Uyga vazifa:
+    Applar:
+        order
+        shop
